@@ -1,0 +1,16 @@
+{
+  "name": "triarb_nj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "limitorder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@binance/connector": "^2.0.1",
+    "console-stamp": "^3.1.1",
+    "log-timestamp": "^0.3.0"
+  }
+}
